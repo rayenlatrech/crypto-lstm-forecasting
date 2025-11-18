@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+
+data/*.csv
+models/*.pt
+models/*.joblib
+
+__pycache__/
+*.pyc
+
+.streamlit/
+.vscode/
+.idea/
